@@ -1,8 +1,8 @@
-# 📘 pythondev
+# pythondev
 
 Repositório com exercícios e exemplos práticos do curso de Python da Udemy.
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 - `inicio/`: exemplos básicos:
   - `exemplo.py`: código Python simples
@@ -28,7 +28,7 @@ Repositório com exercícios e exemplos práticos do curso de Python da Udemy.
   - `test.ipynb`: caderno Jupyter de testes diverso
   - `exerc1.py`: script de três exercícios, sendo estes: formatação de nomes, inversão de palavras e verificação de palíndromos
 
-## ▶️ Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 1. Clone o repositório (caso já não o tenha feito)
 
